@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+.main {
+    font-family: "Roboto";
+    margin-top: 7rem;
+    text-align: center;
+}
+
+.rules h1 {
+    font-size: 4rem;
+}
+
+.rules p{
+    font-size: 2rem;
+}
+
+.rules p:nth-child(3) {
+    padding-bottom: 2rem;
+    color: grey;
+}
+
+textarea {
+    margin-bottom: 2rem;
+    border: 1px solid black;
+    border-radius: .5rem;
+}
+
+textarea:focus {outline:0;}
+
+.title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.output {
+    font-size: 2.5rem;
+    font-family: "Roboto";
+    color: brown;
+}
