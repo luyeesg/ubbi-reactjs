@@ -2,7 +2,7 @@
   "name": "ubbi-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luyeesg.github.io/ubbi-reactjs/",
+  "homepage": "https://luyeesg.github.io/ubbi-dubbi-reactjs/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
