@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ubbi-reactjs/static/css/main.d8d61cec.chunk.css",
+    "main.js": "/ubbi-reactjs/static/js/main.26eefd8f.chunk.js",
+    "main.js.map": "/ubbi-reactjs/static/js/main.26eefd8f.chunk.js.map",
+    "runtime-main.js": "/ubbi-reactjs/static/js/runtime-main.d8876d7c.js",
+    "runtime-main.js.map": "/ubbi-reactjs/static/js/runtime-main.d8876d7c.js.map",
+    "static/js/2.166f866f.chunk.js": "/ubbi-reactjs/static/js/2.166f866f.chunk.js",
+    "static/js/2.166f866f.chunk.js.map": "/ubbi-reactjs/static/js/2.166f866f.chunk.js.map",
+    "index.html": "/ubbi-reactjs/index.html",
+    "static/css/main.d8d61cec.chunk.css.map": "/ubbi-reactjs/static/css/main.d8d61cec.chunk.css.map",
+    "static/js/2.166f866f.chunk.js.LICENSE.txt": "/ubbi-reactjs/static/js/2.166f866f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8876d7c.js",
+    "static/js/2.166f866f.chunk.js",
+    "static/css/main.d8d61cec.chunk.css",
+    "static/js/main.26eefd8f.chunk.js"
+  ]
+}
